@@ -30,8 +30,8 @@ noBtn.addEventListener("click", () => {
     yesBtn.style.visibility = "hidden";
     noBtn.style.visibility = "hidden";
     gif.style.visibility = "hidden";
-    document.body.style.backgroundImage = "url('https://static.wikia.nocookie.net/villains/images/6/65/WhiteFace_9613.png/revision/latest?cb=20200323172910')";
-    document.body.style.backgroundSize = "400px 400px";
+    document.body.style.backgroundImage = "url('https://i.pinimg.com/736x/dc/f0/a8/dcf0a839b12b1a2472667a8337547551.jpg')";
+    document.body.style.backgroundSize = "350px 350px";
     document.body.style.backgroundRepeat = "no-repeat";
     document.body.style.backgroundColor = "black";
     document.body.style.backgroundPosition = "center";
